@@ -7,3 +7,6 @@
 [submodule "rascal-update-site"]
 	path = rascal-update-site
 	url = git@github.com:usethesource/rascal-update-site.git
+[submodule "impulse"]
+	path = impulse
+	url = git@github.com:usethesource/impulse.git
