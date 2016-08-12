@@ -1,0 +1,3 @@
+[submodule "rascal-eclipse"]
+	path = rascal-eclipse
+	url = git@github.com:usethesource/rascal-eclipse.git
