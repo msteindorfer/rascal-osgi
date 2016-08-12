@@ -1,3 +1,9 @@
 [submodule "rascal-eclipse"]
 	path = rascal-eclipse
 	url = git@github.com:usethesource/rascal-eclipse.git
+[submodule "rascal-feature"]
+	path = rascal-feature
+	url = git@github.com:usethesource/rascal-feature.git
+[submodule "rascal-update-site"]
+	path = rascal-update-site
+	url = git@github.com:usethesource/rascal-update-site.git
